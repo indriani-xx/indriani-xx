@@ -1,19 +1,17 @@
 # Hii I'm intens indri👋
-<br>♣️
-<br>♠️ Tetap berjalan walau tertatih
 <br>♥️ Building ideas into code. Learning. Breaking. Rebuilding better
 <br>♦️ 
 | Rank |   Languages   |
 |-----:|---------------|
 |   1  |     Dart      |
-|   2  |     C#        |
-|   3  |               |
+|   2  |     PHP       |
+|   3  |     C#        |
+|   4  |     HTML      |
+|   4  |     CSS       |
 
 **🥇 MY ACTIVITY**
-<br>✨I'm still learning Android
-<br>✨
-<br>✨
-<br>✨
+<br>✨I'm still learning Mobile development
+
 
 **FOLLOW ME** :
 - [Instagram ](https://www.instagram.com/32_rian_?igsh=eXhqNjVxZjFoN3Vw)
