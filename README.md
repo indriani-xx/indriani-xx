@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com?user=indriani-xx&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indriani-xx&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=indriani-xx&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
