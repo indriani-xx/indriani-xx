@@ -76,15 +76,13 @@
      |
 ```
 ### 📊 GitHub Activity
+|     |     |
+| :---: | :---: |
+ <img src="https://streak-stats.demolab.com?user=indriani-xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img height="165" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR6YWR3ankwdzA1cnNvMnozdXNqZXRyMXZ6dDN0M2k2ZnZqYWgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="Cute GIF" />
+  &nbsp;
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=indriani-xx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indriani-xx&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=indriani-xx&theme=tokyonight&hide_border=true" />
-</p>
+ 
 
 ---
 
