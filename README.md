@@ -64,7 +64,17 @@
 > 🌿 *"There is no shame in not knowing where you are going. Even the stars are only visible because the darkness allows them to be seen."*
 
 ---
-
+```text
+        |      
+     -  -    
+    /    \    
+   /  /\  \
+  |  |  |  |  "Bahkan langkah terkecil pun membawa kita
+   \  \/  /   lebih dekat pada mimpi-mimpi besar."
+    \    /
+     -  -
+     |
+```
 ### 📊 GitHub Activity
 
 <p align="center">
