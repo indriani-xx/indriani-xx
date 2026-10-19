@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,dart,php,py,mysql,firebase&perline=10" alt="Languages & Database" />
   <br />
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,vue,vite,bootstrap,tailwind,netlify,eslint,prettier&perline=10" alt="Frameworks & Tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,vue,vite,bootstrap,tailwind,netlify&perline=10" alt="Frameworks & Tools" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,figma,unity&perline=10" alt="Dev Tools & Design" />
 </div>
