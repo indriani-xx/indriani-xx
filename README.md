@@ -1,16 +1,12 @@
-<h1 align="center">✨ Welcome to Totoruu_chan's Corner! 🐱👋 ✨</h1>
-
+<h1 align="center"> Welcome to Totoruu_chan!🤟 </h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpncjM0Z2w4MjVieDJzNGFqZnR4eGJmeDJmbjk2eHUzOXRiOHllaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ikoUFi1tijWZG/giphy.gif" width="280px" alt="cute coding gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A8B8&center=true&vcenter=true&width=500&lines=When+I'm+not+coding%2C+you'll+find+me...;Listening+to+music+%F0%9F%8E%A7;Singing+my+heart+out+%F0%9F%8E%A4;Drinking+coffee+%E2%98%95;Enjoying+ice+cream+%F0%9F%8D%A6;Watching+movies+%F0%9F%8C%9F;Enjoying+the+beauty+of+God's+creation+%F0%9F%8D%83" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A8B8&center=true&vcenter=true&width=435&lines=a+cool+programmer+%F0%9F%98%8E" alt="Typing SVG" />
-</p>
+
 
 ---
 
-### 🧸 About Me
 
 ```text
   ∧___∧
@@ -18,58 +14,57 @@
   /  ⊃✨
 
 ```
+### 🌐 Socials:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7A8B8&center=true&vcenter=true&width=500&lines=When+I'm+not+coding%2C+you'll+find+me...;Listening+to+music+%F0%9F%8E%A7;Singing+my+heart+out+%F0%9F%8E%A4;Drinking+coffee+%E2%98%95;Enjoying+ice+cream+%F0%9F%8D%A6;Watching+movies+%F0%9F%8C%9F;Enjoying+the+beauty+of+God's+creation+%F0%9F%8D%83" alt="Typing SVG" />
-</p>
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://instagram.com/32_rian_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:nimadeindriani55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://discord.gg/totoruu_can_43793"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://instagram.com/32_rian_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/made-indriani-2376b042a"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:nimadeindriani55@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
-### 🛠️ Knowledge and Learning
+### 🛠️ Knowledge and Learning:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,dart,php,py,mysql,firebase&perline=10" alt="Languages & Database" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,vue,vite,bootstrap,tailwind,netlify,eslint,prettier&perline=10" alt="Frameworks & Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,unity&perline=10" alt="Dev Tools & Design" />
+</div>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,php,c,python,js,vue,laravel,tailwind,mysql,firebase,netlify,figma,git,github,vscode,unity&theme=dark&perline=10" />
-  </a>
-</p>
 ---
-
 ### 💭 Dev Motto
 
 > 🌿 *"There is no shame in not knowing where you are going. Even the stars are only visible because the darkness allows them to be seen."*
 
 ---
-```text
-        |      
-     -  -    
-    /    \    
-   /  /\  \
-  |  |  |  |  "Bahkan langkah terkecil pun membawa kita
-   \  \/  /   lebih dekat pada mimpi-mimpi besar."
-    \    /
-     -  -
-     |
-```
 ### 📊 GitHub Activity
-|     |     |
-| :---: | :---: |
- <img src="https://streak-stats.demolab.com?user=indriani-xx&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> | <img height="165" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzR6YWR3ankwdzA1cnNvMnozdXNqZXRyMXZ6dDN0M2k2ZnZqYWgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" alt="Cute GIF" />
-  &nbsp;
+<div align="center">
+<table border="0">
+  <tr>
+    <td>
+      <img alt="Ritme kontribusi" src="https://streak-stats.demolab.com?user=indriani-xx&hide_border=true&background=FBF8F4&stroke=E4D5C8&ring=8C6A5A&fire=8C6A5A&currStreakNum=8C6A5A&sideNums=5C534C&currStreakLabel=5C534C&sideLabels=5C534C&dates=8A7E74" />
+    </td>
+    <td>
+     <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/a0ac443e-df5a-4386-9c04-7ea0052a79b2" />
+    </td>
+  </tr>
+</table>
 
-
- 
+<table border="0" align="">
+  <tr>
+    <td>
+      <img height="170" alt="Statistik kontribusi GitHub" src="https://github-readme-stats.vercel.app/api?username=indriani-xx&show_icons=true&hide_border=true&bg_color=FBF8F4&title_color=8C6A5A&text_color=5C534C&icon_color=8C6A5A&ring_color=C4A48A&custom_title=Stats" />
+    </td>
+    <td>
+      <img height="170" alt="Statistik kontribusi GitHub" src="https://github-readme-stats.shion.dev/api/top-langs/?username=indriani-xx&show_icons=true&hide_border=true&layout=compact&bg_color=FBF8F4&title_color=8C6A5A&text_color=5C534C&icon_color=8C6A5A&ring_color=C4A48A&custom_title=Languages" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
+<p align="center"> <img src="wave.svg" alt="Animasi gelombang pasir" width="100%"> 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=indriani-xx&icon=0&color=3" alt="visitor count" />
-</p>
+
+
