@@ -46,7 +46,7 @@
       <img alt="Ritme kontribusi" src="https://streak-stats.demolab.com?user=indriani-xx&hide_border=true&background=FBF8F4&stroke=E4D5C8&ring=8C6A5A&fire=8C6A5A&currStreakNum=8C6A5A&sideNums=5C534C&currStreakLabel=5C534C&sideLabels=5C534C&dates=8A7E74" />
     </td>
     <td>
-     <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/a0ac443e-df5a-4386-9c04-7ea0052a79b2" />
+  <img width="210" height="195" alt="giphy" src="giphy-take-picture.gif" />
     </td>
   </tr>
 </table>
@@ -63,7 +63,6 @@
 </table>
 </div>
 
----
 <p align="center"> <img src="wave.svg" alt="Animasi gelombang pasir" width="100%"> 
 
 
